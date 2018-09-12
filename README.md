@@ -1,7 +1,41 @@
-# evaluacion-pacial-2bim
+<<<<<<< HEAD
+# evaluacion-final
 
-1.  Realizar scrapy del enlace https://es.wikipedia.org/wiki/Anexo:Resultados_de_las_elecciones_seccionales_de_Ecuador_de_2014
-2.  Obtener el listado de alcaldes del país, donde se incluya Cantón,NombreCandidato, Partido-Alianza.
-3.  Los datos generados deben ser guardados en un csv.
-4.  El csv anterior generado debe ser leído desde un notebook.
-5.  Utilizando los conocimientos estudiados debe mostrar un gráfico que permita vizualizar el número el movimiento o alianza que más candidatos ganadores tuvo en la elección.
+1. Hacer scrapy de la página https://es.wikipedia.org/wiki/Prefectos_provinciales_del_Ecuador
+
+Generar un archivo con los siguientes datos:
+
+Nombre|Provincia|Partido|AnioInicio|AnioFin
+
+2.- Ingresar a cada enlace de la columna predecesor
+
+Ejm.
+https://es.wikipedia.org/wiki/Anexo:Prefectos_de_Azuay
+
+y agregar datos al primer archivo
+
+Nombre|Provincia|Partido|AnioInicio|AnioFin
+
+3.- Leer el csv final generado y presentar los prefectos en base a la provincia.
+- Usar un widget de ipython
+
+4.- Subir todo al repositorio
+
+
+AUTORES:
+	Carlos Castillo
+	Enrique Cueva
+
+PROCEDIMIENTO:
+
+cd evaluacion-final/evaluacion_final
+
+1. Ejecturar: 
+	scrapy crawl datos_prefectos
+2. Ejecutar:
+	scrapy crawl datos_prefectos1
+3. Ejectutar:
+	scrapy crwal datos_prefectos2
+4. Levantar jupyter y ejecutar el notebook
+
+
