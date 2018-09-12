@@ -32,19 +32,21 @@ Alejandro Corral|Azuay|No contiene|1992|1996
 Marcelo Cabrera|Azuay|No contiene|1996|2004
 Oswaldo Flores|Azuay|No contiene|2004|2005
 Paúl Carrasco|Azuay|No contiene|2005|En el cargo.
-Misael Espín Morán|Napo|No contiene|1967|1968
-Enrique Espinosa de los Monteros|Napo|No contiene|1968|1970
-Ney Estupiñán Recalde|Napo|No contiene|1970|1976
-Danilo Jurado Yépez|Napo|No contiene|1976|1978
-Edgar Santillán|Napo|No contiene|1978|1983
-Gustavo Ruíz Terán|Napo|No contiene|1983|1984
-Jorge González Granda|Napo|No contiene|1984|1987
-César Andy Tapuy|Napo|No contiene|1987|1988
-Wilson Barrionuevo Sánchez|Napo|No contiene|1988|1992
-Eduardo Vayas|Napo|No contiene|1992|1996
-Edison Chávez|Napo|No contiene|1996|2000
-Gina Sanmiguel|Napo|No contiene|2005|2009
-Sergio Chacón|Napo|No contiene|2009|Actualidad
+Daniel Lozada Cortez|Orellana|No contiene|1999|2000
+Colón Caicedo|Orellana|No contiene|2004|2005
+Guadalupe Llori|Orellana|No contiene|2005|2008
+Alberto Zambrano|Orellana|No contiene|2008|2009
+Guadalupe Llori|Orellana|No contiene|2009|Actualidad
+Ana Triviño|Santa Elena|Alianza PAIS|2008|2009
+Patricio Cisneros|Santa Elena|Alianza PAIS|2009|2014
+Alberto Andrade Fajardo|Los Ríos|Concentración de Fuerzas Populares|1978|1984
+Antonio Sotomayor|Los Ríos|Frente Radical Alfarista|1984|1988
+Jorge Yánez|Los Ríos|Partido Roldosista Ecuatoriano|1988|1992
+Oscar Llerena|Los Ríos|Partido Roldosista Ecuatoriano|1992|1996
+7 prefectos de transición|Los Ríos|Partido Social Cristiano|1997|2000
+Jorge Marún|Los Ríos|Partido Roldosista Ecuatoriano|2000|2005
+Bonifacio Morán|Los Ríos|Partido Roldosista Ecuatoriano|2007|2009
+Marco Troya|Los Ríos|Alianza País|2009|2014
 Ernesto Olmedo Lara|Morona Santiago|No contiene|1967|1970
 Luis Zúñiga T.|Morona Santiago|No contiene|1970|1972
 Avelino Jaramillo|Morona Santiago|No contiene|1972|1976
@@ -58,14 +60,6 @@ Joaquín Estrella|Morona Santiago|No contiene|1992|1996
 Fausto Suárez|Morona Santiago|No contiene|1998|2000
 Jaime Mejía|Morona Santiago|No contiene|2000|2005
 Marcelino Chumpí|Morona Santiago|No contiene|2009|Actualidad
-Alberto Andrade Fajardo|Los Ríos|Concentración de Fuerzas Populares|1978|1984
-Antonio Sotomayor|Los Ríos|Frente Radical Alfarista|1984|1988
-Jorge Yánez|Los Ríos|Partido Roldosista Ecuatoriano|1988|1992
-Oscar Llerena|Los Ríos|Partido Roldosista Ecuatoriano|1992|1996
-7 prefectos de transición|Los Ríos|Partido Social Cristiano|1997|2000
-Jorge Marún|Los Ríos|Partido Roldosista Ecuatoriano|2000|2005
-Bonifacio Morán|Los Ríos|Partido Roldosista Ecuatoriano|2007|2009
-Marco Troya|Los Ríos|Alianza País|2009|2014
 Jorge Añazco|Sucumbíos|No contiene|1989|1992
 Eliseo Azuero|Sucumbíos|No contiene|1992|1996
 Oswaldo Villota|Sucumbíos|No contiene|1998|2000
@@ -74,14 +68,20 @@ Guillermo Muñoz Tamayo|Sucumbíos|No contiene|2005|2006
 Darwin Lozada|Sucumbíos|No contiene|2006|2009
 Orlando Grefa|Sucumbíos|No contiene|2009|2014
 Guido Vargas|Sucumbíos|No contiene|2014|Actualidad
+Misael Espín Morán|Napo|No contiene|1967|1968
+Enrique Espinosa de los Monteros|Napo|No contiene|1968|1970
+Ney Estupiñán Recalde|Napo|No contiene|1970|1976
+Danilo Jurado Yépez|Napo|No contiene|1976|1978
+Edgar Santillán|Napo|No contiene|1978|1983
+Gustavo Ruíz Terán|Napo|No contiene|1983|1984
+Jorge González Granda|Napo|No contiene|1984|1987
+César Andy Tapuy|Napo|No contiene|1987|1988
+Wilson Barrionuevo Sánchez|Napo|No contiene|1988|1992
+Eduardo Vayas|Napo|No contiene|1992|1996
+Edison Chávez|Napo|No contiene|1996|2000
+Gina Sanmiguel|Napo|No contiene|2005|2009
+Sergio Chacón|Napo|No contiene|2009|Actualidad
 Geovanny Benítez|Santo Domingo de los Tsáchilas|No contiene|2008|2009
-Ana Triviño|Santa Elena|Alianza PAIS|2008|2009
-Patricio Cisneros|Santa Elena|Alianza PAIS|2009|2014
-Daniel Lozada Cortez|Orellana|No contiene|1999|2000
-Colón Caicedo|Orellana|No contiene|2004|2005
-Guadalupe Llori|Orellana|No contiene|2005|2008
-Alberto Zambrano|Orellana|No contiene|2008|2009
-Guadalupe Llori|Orellana|No contiene|2009|Actualidad
 Eduardo Garzón Fonseca|Imbabura|No contiene|1967|1970
 Abdón Montalvo Rhea|Imbabura|No contiene|1971|1973
 Víctor Alejandro Jaramillo|Imbabura|No contiene|1978|1983
@@ -149,6 +149,33 @@ Gabriel Ruiz Albán|Tungurahua|No contiene|1987|1988
 Carlos Larrea Albán|Tungurahua|No contiene|1988|1992
 María Hortensia Albán|Tungurahua|No contiene|1992|2000
 Fernando Naranjo|Tungurahua|No contiene|2000|Actualidad
+Ernesto Jouvín|Guayas|No contiene|1947|1947
+Antonio Moya|Guayas|No contiene|1947|1949
+Alejandro Teodoro Ponce Luque|Guayas|No contiene|1949|1953
+Ricardo Tola Carbo|Guayas|No contiene|1953|1954
+Guillermo Gallardo Cordova|Guayas|No contiene|1954|1956
+Augusto Alvarado Olea|Guayas|No contiene|1956|1957
+César Amador Baquerizo|Guayas|No contiene|1957|1958
+Amalio Puga Pastor|Guayas|No contiene|1958|1959
+Bolívar San Lucas Zavala|Guayas|No contiene|1959|1960
+Alejandro Aguilar Ruilova|Guayas|No contiene|1960|1961
+Galo A. Garay Vargas|Guayas|No contiene|1961|1961
+Assad Bucaram Elmhalin|Guayas|No contiene|1961|1962
+Jorge Yunes Huésped|Guayas|No contiene|1962|1964
+Rafael Dillon Valdez|Guayas|No contiene|1964|1966
+Augusto Barreiro Solórzano|Guayas|No contiene|1967|1967
+Bolívar San Lucas Zavala|Guayas|No contiene|1967|1970
+Julio Vinueza Moscoso|Guayas|No contiene|1970|1971
+Walter Franco Egüez|Guayas|No contiene|1971|1972
+Roberto Béjar Suéscum|Guayas|No contiene|1972|1975
+Raúl Baca Carbo|Guayas|No contiene|1975|1977
+Fernando Abad Montero|Guayas|No contiene|1977|1978
+Guido Chiriboga Parra|Guayas|No contiene|1978|1984
+Alfredo Adum Ziade|Guayas|No contiene|1984|1986
+Carlos Hidalgo Villacis|Guayas|No contiene|1986|1992
+Nicolás Lapentti Carrión|Guayas|No contiene|1992|2009
+Jaime Nogales Torres|Guayas|No contiene|2009|2009
+Jimmy Jairala|Guayas|No contiene|2009|Actualidad
 Mariano Suárez Veintimilla|Pichincha|No contiene|1946|1947
 Manuel Freire|Pichincha|No contiene|1947|1947
 Luis Bossano|Pichincha|No contiene|1947|1949
@@ -179,30 +206,3 @@ Víctor Quirola|Pichincha|No contiene|1996|1996
 Rafael Reyes Uribe|Pichincha|No contiene|1996|2000
 Ramiro González|Pichincha|No contiene|2000|2006
 Gustavo Baroja|Pichincha|No contiene|2006|Actualidad
-Ernesto Jouvín|Guayas|No contiene|1947|1947
-Antonio Moya|Guayas|No contiene|1947|1949
-Alejandro Teodoro Ponce Luque|Guayas|No contiene|1949|1953
-Ricardo Tola Carbo|Guayas|No contiene|1953|1954
-Guillermo Gallardo Cordova|Guayas|No contiene|1954|1956
-Augusto Alvarado Olea|Guayas|No contiene|1956|1957
-César Amador Baquerizo|Guayas|No contiene|1957|1958
-Amalio Puga Pastor|Guayas|No contiene|1958|1959
-Bolívar San Lucas Zavala|Guayas|No contiene|1959|1960
-Alejandro Aguilar Ruilova|Guayas|No contiene|1960|1961
-Galo A. Garay Vargas|Guayas|No contiene|1961|1961
-Assad Bucaram Elmhalin|Guayas|No contiene|1961|1962
-Jorge Yunes Huésped|Guayas|No contiene|1962|1964
-Rafael Dillon Valdez|Guayas|No contiene|1964|1966
-Augusto Barreiro Solórzano|Guayas|No contiene|1967|1967
-Bolívar San Lucas Zavala|Guayas|No contiene|1967|1970
-Julio Vinueza Moscoso|Guayas|No contiene|1970|1971
-Walter Franco Egüez|Guayas|No contiene|1971|1972
-Roberto Béjar Suéscum|Guayas|No contiene|1972|1975
-Raúl Baca Carbo|Guayas|No contiene|1975|1977
-Fernando Abad Montero|Guayas|No contiene|1977|1978
-Guido Chiriboga Parra|Guayas|No contiene|1978|1984
-Alfredo Adum Ziade|Guayas|No contiene|1984|1986
-Carlos Hidalgo Villacis|Guayas|No contiene|1986|1992
-Nicolás Lapentti Carrión|Guayas|No contiene|1992|2009
-Jaime Nogales Torres|Guayas|No contiene|2009|2009
-Jimmy Jairala|Guayas|No contiene|2009|Actualidad
